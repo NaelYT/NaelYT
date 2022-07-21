@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NaelYT
+- 👀 I’m interested in WorldPress Dev
+- 🌱 I’m currently learning html/ccs
